@@ -1,0 +1,7 @@
+Buch;1;4;Hamlet;Shakespeare;172;
+Buch;2;0;1984;Orwell;228;
+Buch;3;2;Moby-Dick;Melville;567;
+DVD;4;0;Der Pate;175;
+DVD;5;3;Forrest Gump;142;
+DVD;6;0;Matrix;136;
+Magazin;7;0;National Geographic;

@@ -1,0 +1,5 @@
+1;Konrad;Adenauer;
+2;Ludwig;Erhard;
+3;Kurt;Kiesinger;
+4;Willy;Brandt;
+5;Helmut;Schmidt;
